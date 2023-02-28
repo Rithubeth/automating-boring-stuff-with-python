@@ -1,0 +1,5 @@
+print("Enter the username:")
+username = input()
+print("Enter the year of birth:")
+x = input()
+print("Hi", username,", you are", x , "years old.")
