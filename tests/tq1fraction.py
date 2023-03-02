@@ -1,0 +1,5 @@
+print("Type 1st number:")
+num1 = input()
+print("Type 2nd number:")
+num2 = input()
+print("Sum of 1st and 2nd numbers is", float(num1) + float(num2))
